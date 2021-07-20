@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a0f2bf7.chunk.css",
+    "main.js": "/static/js/main.13bf3973.chunk.js",
+    "main.js.map": "/static/js/main.13bf3973.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3eafddf0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3eafddf0.js.map",
+    "static/js/2.3827c521.chunk.js": "/static/js/2.3827c521.chunk.js",
+    "static/js/2.3827c521.chunk.js.map": "/static/js/2.3827c521.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4a0f2bf7.chunk.css.map": "/static/css/main.4a0f2bf7.chunk.css.map",
+    "static/js/2.3827c521.chunk.js.LICENSE.txt": "/static/js/2.3827c521.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/static/media/GraphikMedium.f58d53eb.otf",
+    "static/media/icon-arrow-left.77cd50f7.svg": "/static/media/icon-arrow-left.77cd50f7.svg",
+    "static/media/icon-arrow-right.8739c580.svg": "/static/media/icon-arrow-right.8739c580.svg",
+    "static/media/icon-btn-search.a8806c33.svg": "/static/media/icon-btn-search.a8806c33.svg",
+    "static/media/icon-chevron.91591438.svg": "/static/media/icon-chevron.91591438.svg",
+    "static/media/icon-dashboard.6e5fab34.svg": "/static/media/icon-dashboard.6e5fab34.svg",
+    "static/media/icon-down.5dbb0a23.svg": "/static/media/icon-down.5dbb0a23.svg",
+    "static/media/icon-fav-dark.0b7d5598.svg": "/static/media/icon-fav-dark.0b7d5598.svg",
+    "static/media/icon-fav.28058d57.svg": "/static/media/icon-fav.28058d57.svg",
+    "static/media/icon-home.be2bc04b.svg": "/static/media/icon-home.be2bc04b.svg",
+    "static/media/icon-stats.31c0860b.svg": "/static/media/icon-stats.31c0860b.svg",
+    "static/media/icon-trash.0ed25313.svg": "/static/media/icon-trash.0ed25313.svg",
+    "static/media/icon-up.aded5b92.svg": "/static/media/icon-up.aded5b92.svg",
+    "static/media/icon-user.99ef2782.svg": "/static/media/icon-user.99ef2782.svg",
+    "static/media/monetus-logo.a649a067.svg": "/static/media/monetus-logo.a649a067.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eafddf0.js",
+    "static/js/2.3827c521.chunk.js",
+    "static/css/main.4a0f2bf7.chunk.css",
+    "static/js/main.13bf3973.chunk.js"
+  ]
+}
