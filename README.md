@@ -7,8 +7,6 @@
 </br>
 <a href="https://i.imgur.com/tYhuAWq.gif" align="center">GIF DO USO</a>
 
-Este projeto foi desenvolvido com intuito de mostrar qualidade técnica sobre frontend.
-
 # Desenvolvimento
 
 - FrontEnd feito em React.js
